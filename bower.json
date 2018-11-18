@@ -1,0 +1,15 @@
+{
+  "name": "saintsapp",
+  "description": "A catalog of saints",
+  "authors": [
+    "Federico Ramos <federico.ramos@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/framos9784/saints-catalog",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "bootstrap": "3.3.x"
+  }
+}
